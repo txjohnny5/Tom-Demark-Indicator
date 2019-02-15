@@ -1,5 +1,5 @@
 # Tom-Demark-Indicator
-Financial charting with Tom Demark indicator overlay
+Financial charting with Tom DeMark indicator overlay
 
 In it's current form, TD_plotter.py looks at Bitcoin price data, but it could be easily
 adapted to investigate any financial asset for which you have historical price data.

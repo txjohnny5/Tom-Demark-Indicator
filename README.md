@@ -13,7 +13,7 @@ volume, and a 28 day moving average for volume.  These can be changed by comment
 clearly marked sections of the code.
 
 Note that TD_plotter.py uses Python modules outside the standard library. Specifically,
-requests, matplotlib, numpy, and pandas.
+[requests](http://docs.python-requests.org/en/master/), [matplotlib](https://matplotlib.org/), [numpy](https://www.numpy.org/), and [pandas](https://pandas.pydata.org/).
 
 Sample data is provided in the price_data.csv file.  You should update this file with
 current price information before running.  I recommend sourcing the data from [here](https://coinmarketcap.com/currencies/bitcoin/historical-data/).

@@ -8,7 +8,7 @@ In addition to moving averages, exponential moving averages, MACD, volume, and v
 TD_plotter.py will also display the lesser known Tom DeMark indicator on a candle chart.
 Details on how this indicator works and how it should be interpreted can be found [here](http://cs.calstatela.edu/wiki/images/c/cb/DeMark.pdf).
 
-By default TD_plotter.py will show 10, 30, and 50 day exponential moving averages, MACD,
+By default TD_plotter.py will show 10 and 30 day exponential moving averages, MACD,
 volume, and a 28 day moving average for volume.  These can be changed by commenting/uncommenting
 clearly marked sections of the code.
 

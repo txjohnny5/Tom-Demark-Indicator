@@ -33,10 +33,8 @@ def getPrice():
         btcPrice = data.iloc[-1]['Close']
 
 def main():
-    os.system('clear')
-
     #prompt user for number of candles to display
-    print('Press CTRL+z to exit\nYou have ' + str(len(data)-51) +
+    print('\n\nYou have ' + str(len(data)-51) +
         ' candles available to view.\nEnter "0" to view all.\n')
     while True:
         toShow = raw_input('How many candles to display? ')

@@ -15,7 +15,7 @@ clearly marked sections of the code.
 Note that TD_plotter.py uses Python modules outside the standard library. Specifically,
 requests, matplotlib, numpy, and pandas.
 
-Sample data is privided in the price_data.csv file.  You should update this file with
+Sample data is provided in the price_data.csv file.  You should update this file with
 current price information before running.  I recommend sourcing the data from [here](https://coinmarketcap.com/currencies/bitcoin/historical-data/).
 
 To use this software, place all files in this repository into a common directory, then run TD_plotter.py

@@ -1,5 +1,4 @@
 #!/usr/bin/python
-import sys
 import os
 import requests
 import json

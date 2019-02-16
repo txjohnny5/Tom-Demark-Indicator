@@ -19,4 +19,4 @@ Sample data is provided in the price_data.csv file.  You should update this file
 current price information before running.  I recommend sourcing the data from [here](https://coinmarketcap.com/currencies/bitcoin/historical-data/).
 
 To use this software, place all files in this repository into a common directory, set it
-as your current working directory, then run TD_plotter.py.
+as your current working directory, then launch TD_plotter.py.
